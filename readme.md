@@ -6,9 +6,9 @@ Utilize this python package to get the download links from a Rekonise url withou
 
 Install the required modules via pip:
 
-\```bash
+```bash
 pip install -r requirements.txt
-\```
+```
 
 ## Usage
 
@@ -18,13 +18,13 @@ You can use Rekonise from the command line to process links.
 
 #### Example usage:
 
-\```bash
+```bash
 # Process links from a file
 python main.py -f file_name.txt
 
 # Process an individual link
 python main.py -l http(s)://my-domain.com
-\```
+```
 
 ## Documentation
 
